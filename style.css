@@ -13,7 +13,7 @@ body {
   justify-content: center;
   height: 100vh;
   overflow: hidden;
-  margin: 1;
+  margin: 0;
 }
 
 .search {
